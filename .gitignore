@@ -1,0 +1,9 @@
+cache/
+config/
+media/
+ANY_YOU_NEED/
+backup/
+backup-data/
+postgres-data/
+actual-data/
+n8n_data/
